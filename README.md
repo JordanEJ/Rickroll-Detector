@@ -19,13 +19,22 @@
     Never get rickrolled ever again!
     <br />
     <br />
-    <a href="https://jordanej.github.io/rickroll-detector">View Demo</a>
+    <a href="https://jordanej.github.io/Rickroll-Detector">View Demo</a>
     ·
     <a href="https://github.com/JordanEJ/Rickroll-Detector/issues">Report Bug</a>
     ·
     <a href="https://github.com/JordanEJ/Rickroll-Detector/issues">Request Feature</a>
   </p>
 </div>
+
+<h3>To Do:</h3>
+
+- [x] Release Initial Webpage
+- [ ] Create Logo
+- [ ] Increase List of Known Links
+- [ ] Train AI Model On Rickroll Images and Videos
+- [ ] Find a Way To Scan a Webpage with the Trained Model
+- [ ] Release v2.0 with AI recognition
 
 [contributors-shield]: https://img.shields.io/github/contributors/JordanEJ/Rickroll-Detector.svg?style=for-the-badge
 [contributors-url]: https://github.com/JordanEJ/Rickroll-Detector/graphs/contributors
